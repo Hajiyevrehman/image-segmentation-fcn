@@ -52,23 +52,7 @@ The notebook guides you through:
 - The notebook includes inline questions. Provide your answers in the designated areas.
 - Ensure all results, including accuracies, are visible in the notebook.
 
-## Exporting Results
 
-To export the notebook as a PDF:
-1. Go to File > Download as > PDF via LaTeX (.pdf)
-2. Ensure all cells have been executed and results are visible before exporting.
-
-## Submission Guidelines
-
-1. Export the completed notebook as a PDF, including all results and answers.
-2. Create a ZIP file containing all source files (excluding the dataset).
-3. Submit both the PDF and ZIP file to the designated submission platform.
-
-## Notes
-
-- Remove any debugging logs before submission.
-- Ensure you've addressed all questions and tasks in the notebook.
-- Do not include the downloaded dataset in your submission.
 
 ## Support
 
